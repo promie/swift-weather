@@ -1,0 +1,11 @@
+//
+//  debug.xcconfig
+//  SwiftWeather
+//
+//  Created by Promie Yutasane on 5/9/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+OPEN_WEATHER_API_KEY=0ea3515bc24dc3d9c5c2aba98ba02847
