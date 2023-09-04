@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  SwIft Weather
+//  SwiftWeather
 //
 //  Created by Promie Yutasane on 4/9/2023.
 //
