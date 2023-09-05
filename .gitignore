@@ -108,3 +108,4 @@ xcuserdata
 
 .idea/
 .DS_Store
+**/*.xcconfig
